@@ -1,0 +1,13 @@
+a {
+    cursor: pointer;
+}
+
+img {
+    height: 110px;
+    width: 100px;
+}
+
+em {
+    font-size: 15px;
+    color: red;
+}
